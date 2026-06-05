@@ -6,6 +6,7 @@ __pycache__/
 .DS_Store
 venv/
 .venv/
+.envrc
 docs/docs/.nota/config.ini
 section-start-code.zip
 section-end-code.zip
